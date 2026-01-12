@@ -1,0 +1,1 @@
+`npm run dev` to start. all the important files are in src/lib/trajectory
